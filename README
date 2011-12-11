@@ -1,0 +1,1 @@
+This is a simple JavaScript implementation of circular (or ring) buffers. It is intended for the use with node.js.
