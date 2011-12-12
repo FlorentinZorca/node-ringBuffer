@@ -1,0 +1,23 @@
+{
+    "name" : "ringbuffer",
+    "version" : "0.1.0",
+    "description" : "Simple circular buffers (or ring buffers) implementation",
+    "main" : "./ringBuffer.js",
+    "keywords" : [
+        "ring buffers",
+        "circular buffers"
+    ],
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/FlorentinZorca/node-ringBuffer.git"
+    },
+    "engine" : {
+        "node" : ">=0.6.3"
+    },
+    "license" : "MIT",
+    "author" : {
+        "name" : "fzorca",
+        "email" : "f@zorca.de",
+        "url" : "https://github.com/FlorentinZorca"
+    }
+}
